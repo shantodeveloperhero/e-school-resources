@@ -1,0 +1,106 @@
+.container{
+    position: absolute;
+    width: 1440px;
+    height: 575px;
+    left: 0px;
+    top: 0px;
+    
+    background: #F0FFF0;
+}
+.nav-img{
+    position: absolute;
+width: 198.07px;
+height: 59px;
+left: 276px;
+top: -11px;
+}
+.buy-now-button{
+    border: none;
+    border-radius: 33px;
+    padding: 12px 36px;
+    cursor: pointer;
+}
+.red{
+    color: #FD511A;
+}
+.card{
+    background: #F8FFFB;
+}
+.card1{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.choto{
+    position: right;
+width: 24px;
+height: 24px;
+}
+.logo{
+    position: end;
+width: 24px;
+height: 24px;
+left: 1125px;
+}
+.man{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 250px;
+    top: 1900px;
+}
+.media-body{
+    
+position: absolute;
+width: 580px;
+height: 90px;
+left: 400px;
+top: 1900px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+
+
+color: #000000;
+
+}
+.last-part{
+    position: absolute;
+width: 1463px;
+height: 369px;
+left: 0px;
+top: 2300px;
+color: white;
+font-size: 16px;
+text-align: center;
+
+background-color:  #282531;
+}
+
+
+.a-highlight{
+    list-style-type: none;
+}
+
+.bold{
+    position: absolute;
+    width: 123px;
+    height: 180px;
+    left: 1181px;
+    top: 2300px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+    /* or 187% */
+    
+    
+    color: #FFFFFF;
+}
+
+
